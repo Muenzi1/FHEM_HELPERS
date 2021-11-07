@@ -41,3 +41,4 @@ for comb in combinations:
 
     command = f"set {WEEKPROFILE_DEVICE} profile_data {profile_str}"
     fh.send_cmd(command)
+
