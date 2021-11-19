@@ -7,6 +7,9 @@ log/
 restoreDir/
 www/
 .vscode/
+scripts/.env
+scripts/departure_device/bin
+.Trash-1000
 
 CHANGED
 configDB.conf

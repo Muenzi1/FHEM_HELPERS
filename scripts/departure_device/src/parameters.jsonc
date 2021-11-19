@@ -1,0 +1,17 @@
+{
+    "NUMBER_CONNECTIONS": 10,
+    "PRODUCTS": "1111111111",
+    "BASE_URL" : "https://reiseauskunft.bahn.de/bin/bhftafel.exe/dox",
+    "DEVICE": "d_departure",
+    "STATIONS": {
+        "HBF": {
+            "ID": "STATIONID", 
+            "READING": "STATIONNAME"
+        },
+        "STRABA": {
+            "ID": "STATIONID", 
+            "READING": "STATIONNAME"
+        }
+    },
+    "HOST": "osmc"
+}
