@@ -7,7 +7,6 @@ log/
 restoreDir/
 www/
 .vscode/
-scripts/.env
 scripts/departure_device/bin
 .Trash-1000
 
@@ -25,3 +24,4 @@ README_DEMO.txt
 
 !www/ftui
 
+.env

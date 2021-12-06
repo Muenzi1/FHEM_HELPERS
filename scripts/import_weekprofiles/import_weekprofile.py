@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.DEBUG)
 PROFILE_JSON = "./scripts/import_weekprofiles/HeizungsProfile.json"
 
 WEEKPROFILE_DEVICE = "HZ_Schedule"
-TOPICS = ["Arbeit", "HomeOffice", "Aus"]
+TOPICS = ["Arbeit", "HomeOffice", "SommerAus", "WinterAus"]
 ROOMS = [
     "Arbeitszimmer",
     "Badezimmer",
